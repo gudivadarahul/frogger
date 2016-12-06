@@ -1,0 +1,23 @@
+#myCanvas {
+  border: solid green 5px;
+  font-family: 'Bungee', cursive;
+
+}
+
+body,html {
+  font-family: 'Bungee', cursive;
+}
+
+button {
+  width: 808px;
+  background-color: orange;
+  padding: 20px 0 20px 0;
+  font-size: 120%;
+  border: none;
+  cursor: pointer;
+  color: white;
+  border-radius: 3px;
+  outline: none;
+  font-family: 'Bungee', cursive;
+  text-shadow: 2px 2px black;
+}
